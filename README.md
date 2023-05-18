@@ -14,10 +14,11 @@
 </div>
 
 <h2>Imagens</h2>
+
 <p>Segue algumas imagens representando a responsividade do projeto:</p>
-
+<div align="center">
 <img align="center" src="https://github.com/brunalmucelli/Alurinha/blob/8b792c80ffc3d5981934ec5c81440a787f4ded58/img/Alurinha2.png" width="60%">
-
+</div>
 
 <h2>Objetivos do projeto - Educacional</h2>
 <p>Desenvolvi esse projeto visando aprender os conceitos relacionados ao Flex-box CSS e os pontos mais importantes abordados foram foram:</p>
